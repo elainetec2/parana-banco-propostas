@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ParanaBanco.Propostas.Application.Events
+namespace ParanaBanco.Clientes.Application.Events
 {
     public sealed record ClienteCadastrado(
         Guid EventId,
