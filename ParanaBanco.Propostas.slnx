@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ParanaBanco.Propostas.API/ParanaBanco.Propostas.API.csproj" />
+  <Project Path="ParanaBanco.Propostas.Application/ParanaBanco.Propostas.Application.csproj" />
+  <Project Path="ParanaBanco.Propostas.Domain/ParanaBanco.Propostas.Domain.csproj" />
+  <Project Path="ParanaBanco.Propostas.Infrastructure/ParanaBanco.Propostas.Infrastructure.csproj" />
+  <Project Path="ParanaBanco.Propostas.UnitTests/ParanaBanco.Propostas.UnitTests.csproj" />
+</Solution>
