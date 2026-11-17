@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ParanaBanco.Propostas.Application\ParanaBanco.Propostas.Application.csproj" />
+    <ProjectReference Include="..\ParanaBanco.Propostas.Domain\ParanaBanco.Propostas.Domain.csproj" />
   </ItemGroup>
 
 </Project>
